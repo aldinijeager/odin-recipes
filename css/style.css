@@ -1,0 +1,21 @@
+.header{
+    color: red;
+    background-color: lightpink;
+    font-weight: bold;
+    text-align: center;
+}
+.button{
+    color: red;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+.title{
+    background-color: red;
+    color: wheat;
+    text-align: center;
+    font-size: 20;
+}
+.body{
+    background-color: yellow;
+
+}
