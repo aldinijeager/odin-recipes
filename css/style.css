@@ -1,21 +1,28 @@
-.header{
-    color: red;
-    background-color: lightpink;
-    font-weight: bold;
+.body{
+    background-color: lightyellow;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
+}
+.body .header{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+   
+}
+.para{
+    color: ;
 }
 .button{
-    color: red;
-    background-color: aquamarine;
+    background-color: red;
+    
+}
+a {
+    color: white;
     font-weight: bold;
 }
-.title{
-    background-color: red;
-    color: wheat;
-    text-align: center;
-    font-size: 20;
-}
-.body{
-    background-color: yellow;
-
+.list .title,
+.list .body,
+.list .button{
+    text-align: left;
 }
