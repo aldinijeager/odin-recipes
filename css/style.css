@@ -16,7 +16,7 @@ body{
 
 .main{
     border: 2px ;
-    width: 80%;
+    width: 100%;
     margin: 0px auto;
     padding: 2%;
     box-sizing: border-box;
@@ -27,7 +27,8 @@ body{
     box-sizing: border-box;
     display:block;
     border: solid;
-    width: 70%; 
+    width: 95%; 
+    max-width: 500px;
     margin: 20px auto;  
     padding: 2% 5%;
     background-color: rgba(234, 94, 94, 0.632);
